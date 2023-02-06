@@ -13,3 +13,4 @@ The session consisted of the following:
 - Introducing Pandas as a tool to work with extensive amounts of data in Tabular form, and drawing comparision to queries that may be written in SQL, or Pivot Tables used in Spreadsheet Softwares
 - Introducing Matplotlib as a visualisation tool
 - Using the Libraries above to clean, process, visualise and draw basic inferences and conclusions from the data.
+- Worked on an example dataset to. draw basic inferences. (Reference: https://towardsdatascience.com/data-analysis-for-beginners-90a8d53fa2f9)
