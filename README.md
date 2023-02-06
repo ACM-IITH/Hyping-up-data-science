@@ -1,6 +1,6 @@
 # Hyping-up-data-science
 
-This was an Introductory Session conducted on Data Science by Tanmay Goyal, a 3rd year Btech Student, majoring in Artificial Intelligence,on the 4th of February, 2023.
+This was an Introductory Session conducted on Data Science by **Tanmay Goyal** (github: tanmaygoyal258), a 3rd year Btech Student, majoring in Artificial Intelligence,on the 4th of February, 2023.
 
 The session was aimed at anyone who wished to get a glimpse into the world of Data, what are the pre-requisites (if any) for this world, and the similarities and differences between the world of Data and the world of Software. Further, it aimed at introducing NumPy, Pandas and Matplotlib, some of the most commonly used Python Libraries, from a Data Analysis point of view.
 
